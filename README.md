@@ -14,6 +14,6 @@ Southwest University, Chongqing, China
 
 ## 🎓 Education
 - **2024.09 – Present**  
-  B.E. in Information Security  
+  B.E. in Information Security (Expected 2028)  
   Southwest University, Chongqing
 
