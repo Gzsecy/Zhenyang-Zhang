@@ -3,7 +3,7 @@ Undergraduate Student | Information Security
 School of Electronic and Information Engineering  
 Southwest University, Chongqing, China  
 
-📩 Email: zzy2421220649@email.edu.cn  
+📩 Email: zzy2421220649@email.swu.edu.cn  
 💻 GitHub: [Gzsecy](https://github.com/Gzsecy)  
 
 ## 🔍 Research Interests
